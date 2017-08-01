@@ -1,0 +1,118 @@
+.Gameboard {
+    width:260px;
+    height:260px;
+    background-color: lightgreen;
+    position: absolute;
+    left: 710px;
+}
+
+.boarda1 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-color: black;
+    border-bottom-width: 5px;
+    border-right-width: 5px;
+    float: left;
+}
+
+.boarda2 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-color: black;
+    border-left-style: solid;
+    border-bottom-width: 5px;
+    border-right-width: 5px;
+    border-left-width: 5px;
+    float: left;
+}
+
+.boarda3 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-color: black;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    float: left;
+}
+
+ .boarda4 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-color: black;
+    border-bottom-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    float: left;
+} 
+
+ .boarda5 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    float: left;
+} 
+
+ .boarda6 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-right-width: 0px;
+    float: left;
+}
+
+.boarda7 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-color: black;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    float: left;
+}
+
+.boarda8 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-color: black;
+    border-left-style: solid;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-left-width: 5px;
+    float: left;
+}
+
+.boarda9 {
+    height: 80px;
+    width: 80px;
+    background-color: lightblue;
+    border-left-style: solid;
+    border-top-style: solid;
+    border-color: black;
+    border-top-width: 5px;
+    border-left-width: 5px;
+    float: left;
+}

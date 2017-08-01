@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Gameboard from './components/gameboard'
 import './App.css';
 
 class App extends Component {
@@ -12,7 +13,7 @@ class App extends Component {
           Press Start Game to Play
         </p>
         <button>Start</button>
-        <div className="Gameboard"></div>
+        <Gameboard />
       </div>
     );
   }
